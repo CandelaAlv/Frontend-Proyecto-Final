@@ -25,15 +25,21 @@
 
 <br> <br></div>
 Esto deberia verse asi:
+<div align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FRqA4FK8QwcDTofW79ZJWGcyRWBzCN9YcZtO___EN3XnU3hlm5EqTGwFABC3HwCHj5ARnyAMGXIrSgrw4ZSIOXvZH5rFWknoCL4ggwnHPKzvBj3NAH7Q1QlDievQ9K_2hV1sgoxX6Xz8KsMCa58XJnTUKMwYdYi77QhpIMKe33kMAPaADsAJT03W/s2158/Screenshot_20230506-113859~2.png">
+</div>
 Para crear te llevara al siguiente formulario:
 <div align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqBmT9LZH9cZV_bhL-dzYLPpxWeLaZXwsk7E_LJ-iDt6XBExz0mVQoER623jrjl0a3dabJc15lIATSynTZyFYuDNEVs-EegyJe6jU5IBv88bjHqNwYG6dLjXH1pDINrHEPOproEFHHBgrA3UVEcI6OxHMq715wrFxtLArXlCLJcfo9lWzoNo-3p_Xz/s406/pagina5.png">
 </div>
 <br>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsc-GgH9S9TpLVIpJ_zMr2R90F6czQSxGz2xKngv_txR8gNKcPl8BR7YUiOGMWsUXFzEpC3wpJBY1bdnu2PwKQmZZX44kp7KEbOC7HDXWHDi1JhoDYoI8BFMSJDvd26veL-QjnsIDJgGdlTC01J1KggewQciaXRpuKrtOsxJpPmeOcx1oE1JyABqW/s2006/Screenshot_20230506-113911~2.png">
-3. Una vez le demos a salir los botones desapareceran y la informacion se vera actualizada.
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsc-GgH9S9TpLVIpJ_zMr2R90F6czQSxGz2xKngv_txR8gNKcPl8BR7YUiOGMWsUXFzEpC3wpJBY1bdnu2PwKQmZZX44kp7KEbOC7HDXWHDi1JhoDYoI8BFMSJDvd26veL-QjnsIDJgGdlTC01J1KggewQciaXRpuKrtOsxJpPmeOcx1oE1JyABqW/s2006/Screenshot_20230506-113911~2.png">
+</div>
+3. Una vez le demos a salir los botones desapareceran y la informacion se vera actualizada.
+<div align="center">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopy1kgf2Q3OegZtH7wBhAcUWMeu78TFRD4s0joYFZR0jBYeP1X0_blu9aqcgNRg3Zx-SWPDLCiIn5i8RSrIGAweEKXZdgkACHBXQxehctH2TdSWPhsWBkzOJDi1B1xHBwowoDNBqR60yMVMtUAqZvbQ1zzKmhxpV6Mz3SCOlRhmEXR3sX6ZhliwmD/s606/Screenshot_20230506-113925.png">
+</div>
 ## ⌨🖱 Instalación
 - Si queremos correr la aplicación en un entorno local debemos tener en cuenta lo siguiente: 
 
