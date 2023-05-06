@@ -1,0 +1,128 @@
+
+<section class="profesional">
+<div class="container p-5">
+    <div class="row">
+      <div class="col">
+          <h2 align="center">Experiencia laboral</h2>
+        </div>
+      </div>
+
+  <br><br>
+  <div class="container text-center">
+    <button class="btn btn-primary" type="button" *ngIf="isLogged" routerLink="/nuevotrab"><i class="fa-solid fa-plus"></i></button>
+    <div class="row">
+     
+<br>
+      <div *ngFor=" let Trabajo of trab">
+      <div class="col-auto me-auto mt-2">
+      <img id="logotrab1" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS_DaLnspXUk32M0QCRAmIkb6iHjWweSDVjOXslZHexHyH0XVZjUwp56kzNSakl5IK9tqd6kfNhA5PoOvikryKbYShUNPMHf_IBmwEZ_OxIq8MIdMZKY3-UUOub5ST4XA-bBnkylQqf2YV8ATOCAzyDALe2uJrzNxqCEG5I6jGTe3TLxp3yByI1qJm/s318/iconoparatrabajo.png" alt="trabajo-it">
+      </div>
+      <div class="col-8">
+        <div align="left">
+          <h4>{{Trabajo.trabajo}}</h4>
+          <h5>{{Trabajo.descripcion}}</h5>
+          <h6>{{Trabajo.fecha}}</h6>
+
+        </div><br><br>
+
+      </div>
+
+      <div class="col">
+      </div>
+      
+        <div class="col">
+          <ul class="list-group list-group-horizontal ">
+<button class="btn btn-primary" type="button" *ngIf="isLogged" routerLink="/edittrab/{{Trabajo.id}}"><i class="fa-solid fa-pencil"  ></i></button>
+
+<button class="btn btn-primary" type="submit" *ngIf="isLogged" (click)="delete(Trabajo.id)" >
+  <i class="fa-solid fa-trash-can"></i></button>
+</ul>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+ 
+  <br><br>
+  
+
+
+
+
+
+
+  <!--
+    <div *ngFor=" let Trabajo of trab">
+      <div>
+        <img id="logotrab1" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS_DaLnspXUk32M0QCRAmIkb6iHjWweSDVjOXslZHexHyH0XVZjUwp56kzNSakl5IK9tqd6kfNhA5PoOvikryKbYShUNPMHf_IBmwEZ_OxIq8MIdMZKY3-UUOub5ST4XA-bBnkylQqf2YV8ATOCAzyDALe2uJrzNxqCEG5I6jGTe3TLxp3yByI1qJm/s318/iconoparatrabajo.png" alt="educacion-it">
+      </div>
+      <div align="left">
+        <h4>{{trab.trabajo}}</h4>
+        <h5>{{trab.descripcion}}</h5>
+        <h6>{{trab.fecha}}</h6>
+      </div><br><br>
+    </div>
+  
+    
+  
+    <div>
+      <div>
+        <img id="logotrab2" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJOIBKimkPe8rg6_W9oBDV2p0W-QdtuMUXcO8XPf8B05X5XXgYa7svP0CSHNcoBJxioa7CqAtCBLcn6Nb_U19FG4HJiW1vClZ4YSy5zKl4OH0J-frZXwjAeSd9ZDyq-k2QFV7y564l5rqIr4XRyp5Aew4Lqjc46E3VdfaKzu_EkzugCUDNQYhDbx-q/s318/icono1.png" alt="la escuela del sql">
+      </div>
+      <div align="left">
+        <h4>Pasantia Informatica</h4>
+        <h5>Ayudante en clases de informática en escuela, uso de diferentes programas de todo tipo.</h5>
+        <h6>2014-2015</h6>
+   
+      </div>
+    </div>
+  
+  <br><br>
+  
+    <div>
+      <div>
+        <img id=logotrab3 class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixYYheuvWNXPbojXk3k4KcVDmzWnKOFHJVn8DfssOCXPIQN4zqfBHw1TLR6VO_dNocEUBAdrSU3T6xLbKojEACNeSzgcdXpEeqq3kLBfrE73jmZygIY5DWpO2qZeYlGQ3VgUpS5nzGaDe0_3xZSlmM7EYaWGglnOuoS7MNfHcm6J_hGAVX729oZ-_0/s123/logo%20perfume.png" alt="logo">
+      </div>
+      <div align="left">
+        <h4>Vendedora</h4>
+        <h5><em>Vendedora, repositora en perfumeria “ Aromas ”
+          Monte Chingolo</em></h5>
+        <h6><em>2018-2020</em></h6>
+        
+      </div>
+    </div>
+  
+    <br><br>
+  
+  
+    <div>
+      <div>
+        <img id=logotrab4 class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGS1GeGi8CK_crmIMP4ikN9YwoVekt0KWRkU3FG0e5r8O76DF-xm0vlxm-6cFZTRKk2AlKzh_GF0Hamy6V8sNU7gOMTkF4hQXRcoeMUbuK53qz7D3889xZ1xT8K5juAw1xFGyzxsDox5kQlmU-3CQUuy15x67GeDJ2MUEE_TB-2tY1UscPTivA4lVy/s318/icono2.png"
+          alt="logo">
+      </div>
+      <div align="left">
+        <h4>Concientizadora Social</h4>
+        <h5><em>Atención primero presencial, luego por pandemia fue
+          Online: atencion a clientes, uso de excel, organización
+          de informes y tareas. 3 meses por contrato temporal
+          con la fundacion Huesped</em></h5>
+        <h6><em>2020-2020</em></h6>
+        
+      </div>
+    </div>
+  
+  -->
+  
+    
+  
+</section>
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,84 @@
+
+<!-- Proyectos -->
+<section class=" text-center bg-dark">
+    <div class="container p-5">
+      <h1 class="text-center" class="proyectos" style="color: aliceblue;">Proyectos</h1>
+      <i class="fa-thin fa-briefcase"></i>
+    
+      <p style="color: aliceblue;">
+        Proyectos en proceso y finalizados.    
+      </p>    
+      <div class="row justify-content-center" *ngIf="isLogged">
+        <div class="col-lg-3">
+        <div class="card h-100">
+          <div class="card-body">
+            
+            <div class="d-flex flex-row justify-content-center">
+              <div class="p-4">
+               <h2>Agrega un proyecto aqui</h2>
+              </div>
+             
+            </div>
+            <div class="p-4">
+            <button class="btn btn-primary" type="button" routerLink="/nuevoproye">+</button>
+          </div>
+        </div>
+      </div>
+      </div>  
+      </div>
+        <!-- USER -->
+        <div class="row justify-content-center" >
+        <div class="col-lg-3" *ngFor=" let Proyecto of proye">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVr23pgaLb2n7ic4vXECLoD_r2ASaYeXO6v99idD0VZowYwracsLPk8_M05ZznDBu6KmtGnvd69FGjKQIn5wbGlG35PeFy4_C2wsicN1KyNiv_ODC-RnMWIVk6j7DEreqW30IjJIDzlcvlGb3ZESmb2fn-Xsh4j0OFABvPbXnTdkhuyd1q6BAt-KlA/s729/proyectosicono.png" class="card-img-top">
+              <h2>{{Proyecto.proyecto}}</h2>
+              
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-4">
+                  <a href="{{Proyecto.url}}" class="btn btn-primary">Visitar</a>
+                </div>
+              </div>
+              <button class="btn btn-primary" type="button" *ngIf="isLogged" 
+routerLink="/editproye/{{Proyecto.id}}">
+  <i class="fa-solid fa-pencil"  ></i></button>
+
+<button class="btn btn-primary" type="submit" *ngIf="isLogged" 
+(click)="delete(Proyecto.id)" >
+  <i class="fa-solid fa-trash-can"></i></button>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+        
+    <!--
+        <div class="col-lg-3">
+          <div class="card h-100">
+            <div class="card-body">
+              <img src="https://www.anahuac.mx/mexico/sites/default/files/noticias/Los-colores-que-utilizamos-en-la-ropa-dicen-como-somos.jpg" class="card-img-top ">
+              <h3 style="color: black;">Sintesis de Carrera</h3>
+                <p>
+                  Desarrollo de carrera 
+                </p>
+              <div class="d-flex flex-row justify-content-center">
+                <div class="p-4">
+                  <a href="https://github.com/CandelaAlv" class="btn btn-primary">Visitar</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      -->
+    
+    
+    
+      </div>
+    </div>
+    </section>

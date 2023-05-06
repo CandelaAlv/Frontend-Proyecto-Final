@@ -1,0 +1,115 @@
+{
+   
+      "banner":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8y_KtMvP8clhpxjcvGZvqOwMLu1QcupnghIuEk3_Gbdqe3ZK-wOF1f5j5djKbazC-12ciJc1yTTQmoxbSZ6New68rEkPHmWL_DwTEXH4LnMwon0YWXRKbfm-m_bNkFLsV2hv17nG8qcjFy0GREC7RBuE_3Hvfn768XoNhSqT9yRTbnlJkwu-4mVH/s6000/turned-on-gray-laptop-computer.jpg",
+      "titulo":"Desarrollador Web FullStack Jr.",
+      "name":"Candela Alvarez",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifA91ZS3BEcMmSY9d9ChvtV7xK2BvCrs4LlicBc8QggEQACAxLwZ80WoY_GzTq1XGYpeySicC1ynQAfoLLdeNcoVmSX-bZIlK8YALxyj2KUjQ99e6OASRjLRo4-DaCkySxW3AeT7RpKzfsWkLLog7N5C0WfiaU7tPwrFhHnWAUva71pctmM_hGRpYd/s872/Foto%20de%20perfil%20(2).png"  ,
+      "sobreMi": "Hola, mi nombre es Candela Alvarez, soy de Quilmes y estudio para ser programadora. Poseo una gran capacidad creativa y amo los desafios. Siempre estoy dispuesta a aprender y proponerme nuevas metas. Tengo una gran capacidad para trabajar en equipo y adaptarme a cualquier situación encontrando soluciones rapidas y funcionales. Me encanta diseñar, dibujar y todo aquello que requiera creatividad.",          
+      "email":"candela98alvarez@gmail.com",
+      "instagram":"https://www.instagram.com/candy_alv/",
+      "facebook":"https://facebook.com/",
+      "twitter":"https://twitter.com/candyalv"
+  
+,
+  "estudios":[
+      {
+        "id": 1 ,
+     "educacion":"Educacion Secundaria",
+     "fecha":"2012-2015",
+     "descripcion":"Bachiller con orientación en humanidades y ciencias sociales"
+       },
+       {
+        "id": 2 ,
+          "educacion":"Universidad Del Este",
+         "fecha":"2016-2019",
+         "descripcion":"Tecnica en Diseño De Indumentaria"
+      },
+      {
+        "id": 3,
+          "educacion":"Argentina Programa",
+         "fecha":"2022-2023",
+         "descripcion":"Full Webstack Junior."
+      }  
+
+  ],  
+
+  "jobs":[
+      {
+        "id": 1,
+      "trabajo":"Pasantia administrativa",
+     "fecha":"2014-2015",
+     "descripcion":"Experiencia desde atención telefónica, control de agenda, uso del computador, organización de tareas, informes, atención a clientes y más"
+  },
+  {
+    "id": 2,
+      "trabajo":"Pasantia Informatica",
+     "fecha":"2014-2015",
+     "descripcion":"Ayudante en clases de informática en escuela, uso de diferentes programas de todo tipo."
+  },
+  {
+    "id": 3,
+      "trabajo":"Vendedora",
+     "fecha":"2018-2020",
+     "descripcion":"Vendedora, repositora en perfumeria “ Aromas ” Monte Chingolo"
+  },
+  {
+    "id": 4,
+      "trabajo":"Concientizadora Social",
+     "fecha":"2020-2020",
+     "descripcion":"Atención primero presencial, luego por pandemia fue Online: atencion a clientes, uso de excel, organización de informes y tareas. 3 meses por contrato temporal con la fundacion Huesped"
+  }
+  ],  
+
+  "skills":[  
+
+  {
+    "id": 1,
+  "habilidad":"Html-Css",
+  "porcentaje":"70"  
+
+  },
+  {
+    "id": 2,
+      "habilidad":"Javascript",
+      "porcentaje":"90"
+      },
+  {
+    "id": 3,
+       "habilidad":"Java",
+       "porcentaje":"80"
+  },
+  {
+    "id": 4,
+      "habilidad":"SQL",
+      "porcentaje":"60"
+      },
+      {
+        "id": 5,
+      "habilidad":"Angular",
+      "porcentaje":"30"
+      }  
+
+  ],
+  "proyectos":[  
+
+  {
+    "id":1,
+      "nombre":"Portfolio Web",
+      "link":"https://github.com/CandelaAlv?tab=repositories"  
+
+  },
+  {
+    "id":2,
+      "nombre":"Sintesis de Carrera",
+      "link":"https://github.com/CandelaAlv?tab=repositories"  
+
+  }  
+
+  ]
+
+
+
+
+
+
+}

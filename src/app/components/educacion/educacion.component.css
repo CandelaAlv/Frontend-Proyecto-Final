@@ -1,0 +1,19 @@
+
+  .team {
+    background: #30336b;
+  }
+  h1, h4,h5, h6{
+    color: aliceblue;
+  }
+  
+  .btn.btn-primary{
+
+    margin-right: 10px;
+
+   }
+   #logotrab1{
+    width: 140px;
+      float: left;
+      height: 120px;
+      margin-right: 10px;
+  }

@@ -1,0 +1,85 @@
+<section class="text-center team">
+     <div class="container p-5">
+      <div class="row">
+        <div class="col">
+            <h1 align="center">Educacion</h1> <i class="fa-solid fa-graduation-cap fa-2x"></i><p class="text-white">
+      Mis estudios tanto universitarios como cursos y titulos.
+    </p> 
+          </div>
+        </div>
+    <br><br>
+    <div class="container text-center">
+      <button class="btn btn-primary" type="button" *ngIf="isLogged" routerLink="/nuevoestu"><i class="fa-solid fa-plus"></i></button>
+      <div class="row">
+       
+  <br>
+        <div *ngFor=" let Estudio of estu">
+        <div class="col-auto me-auto mt-2">
+        <img id="logotrab1" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-qYsp92aOMUDLm0atFWhi0-T8D9KWVr4TJWGZ-WNOPspJ0_8z4iJETnRm04iriFEZJHYiu_CPtNigJO2I0GeddWiJn7XThwKnEj4lPNBAt2g4gLGa71OCo6SWRWskNjwTpEXOQrbLvLyra91eguMSxxW7Qfpr--vs8E4-JnoC8PuhpVAh48EyUvW/s318/iconoparaEstudios.png" alt="educacion-it">
+        </div>
+
+        <div class="col-8">
+          <div align="left">
+            <h4>{{Estudio.estudio}}</h4>
+            <h5>{{Estudio.descripcion}}</h5>
+            <h6>{{Estudio.fecha}}</h6>
+  
+          </div><br><br>
+  
+        </div>
+  
+        <div class="col">
+        </div>
+        
+          <div class="col">
+            <ul class="list-group list-group-horizontal ">
+  <button class="btn btn-primary" type="button" *ngIf="isLogged" routerLink="/editestu/{{Estudio.id}}"><i class="fa-solid fa-pencil"  ></i></button>
+  
+  <button class="btn btn-primary" type="submit" *ngIf="isLogged" (click)="delete(Estudio.id)" >
+    <i class="fa-solid fa-trash-can"></i></button>
+  </ul>
+  </div>
+        </div>
+
+
+
+
+
+
+    <!--uno
+    
+      <div *ngFor=" let estudio of estudios">
+        <img id=logo1 class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz-qYsp92aOMUDLm0atFWhi0-T8D9KWVr4TJWGZ-WNOPspJ0_8z4iJETnRm04iriFEZJHYiu_CPtNigJO2I0GeddWiJn7XThwKnEj4lPNBAt2g4gLGa71OCo6SWRWskNjwTpEXOQrbLvLyra91eguMSxxW7Qfpr--vs8E4-JnoC8PuhpVAh48EyUvW/s318/iconoparaEstudios.png"  alt="educacion-it">
+      
+      <div align="left" >
+        <h4 >{{estudio.educacion}}</h4>
+        <h5 >{{estudio.descripcion}}</h5>
+        <h6 >{{estudio.fecha}}</h6>
+      </div>
+      <br><br><br><br>-->
+       </div>
+  </div>
+</div>
+    
+
+</section>
+ <!--dos
+      
+      <div>
+        <img id="logo2" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia_I7LCO1_4dMIt5Ea-o4IVZTHo4HJAmI_lFkIz-sxnWMTjc14gMXEAiuSRDNFa5L4HHWX1Bsx0WKUONEZiDTJhEsKxm1HMiEupRxbwSYJSgy4w5ViBJo_OOAMZcqBx4zwj_6e7k0LaNamr6B8gxXDhi1JvFymQZ9DabVOtJEudqlrWfGD9WMaI7YW/s180/ude.png" alt="educacion-it">
+      </div>
+      <div align="left">
+        <h4 >Universidad Del Este</h4>
+        <h5 >Tecnica en Diseño De Indumentaria</h5>
+        <h6 >2016-2019</h6>
+      </div>
+      <br><br><br><br>
+    
+      <div>
+        <img id="logo3" class="img-fluid" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW0RiQw7fCpNhUK6VyQzfm6j2mMhoUue9EVCgvl2r-r9__3pVG2RRgbZxDBYCXpqTPtnyhl_sH4xa93w5f-CVJQ_F9w0-Yp9SIIbXDpybOZKYg4xS9bV5DrOyyplmzf06bSZHptEYf5L3yfcXAyzEoUXkJpEy-gOuAL-63oA4kHXpcLirRgIpNe3BS/s322/icono3.png" alt="educacion-it">
+      </div>
+      <div align="left">
+        <h4 >Argentina Programa</h4>
+        <h5 >Full Webstack Junior.</h5>
+        <h6 >2022-2023</h6>
+        -->

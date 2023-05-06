@@ -1,0 +1,40 @@
+i.fa-solid.fa-user.fa-2x,
+i.fa-brands.fa-twitter.fa-2x,
+i.fa-brands.fa-facebook.fa-2x,
+i.fa-brands.fa-instagram.fa-2x
+{
+color: rgb(178, 178, 214);
+}
+
+i.fa-brands.fa-twitter.fa-2x:hover,
+i.fa-brands.fa-facebook.fa-2x:hover,
+i.fa-brands.fa-instagram.fa-2x:hover,
+i.fa-solid.fa-user.fa-2x:hover
+{
+  color:rgb(13, 148, 206)
+}
+
+.list-group{
+  --bs-list-group-border-color:none;
+  --bs-list-group-bg:none;
+ 
+}
+
+.social li {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  display: inline-block;
+
+  background-color: var(--grey);
+  line-height: 1;
+}
+
+i.fa-brands.fa-twitter,
+i.fa-brands.fa-facebook,
+i.fa-brands.fa-instagram{
+  color: rgb(178, 178, 214);
+  
+}
+.mt-5.fs-3.text-uppercase{
+  margin: top 3rem;
+}

@@ -1,0 +1,20 @@
+.mat-card{
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,0.6558998599439776) 1%, rgba(182,240,241,0.3393732492997199) 100%);
+    margin: 20px 10px;
+    padding: 10px;
+  
+     border-radius: 32px;
+     border: 2px solid rgba(95, 244, 244, 0.419);
+     
+  }
+.skill{
+   background-color: rgb(46, 46, 46);
+}
+
+.btn.btn-primary{
+
+   margin-right: 10px;
+   margin-top:5px;
+
+}

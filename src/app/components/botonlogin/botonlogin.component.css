@@ -1,0 +1,30 @@
+
+
+/* Navbar*/
+i.fa-solid.fa-user.fa-2x,
+i.fa-brands.fa-twitter.fa-2x,
+i.fa-brands.fa-facebook.fa-2x,
+i.fa-brands.fa-instagram.fa-2x
+{
+color: rgb(178, 178, 214);
+}
+
+i.fa-brands.fa-twitter.fa-2x:hover,
+i.fa-brands.fa-facebook.fa-2x:hover,
+i.fa-brands.fa-instagram.fa-2x:hover,
+i.fa-solid.fa-user.fa-2x:hover
+{
+  color:rgb(13, 148, 206)
+}
+
+.list-group{
+  --bs-list-group-border-color:none;
+  --bs-list-group-bg:none;
+  
+}
+.dropdown-divider {
+  height: 0;
+  margin: 0.5rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef;
+}

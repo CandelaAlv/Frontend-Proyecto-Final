@@ -1,0 +1,321 @@
+/* cosas generales*/
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+
+*{
+  font-family: 'Mukta', sans-serif;
+}
+
+
+.btn.btn-info{
+  background: rgb(8, 21, 43);
+  border: none;
+  color:beige;
+}
+.btn.btn-danger{
+background:rgb(83, 16, 20);
+border: none;
+  color:beige;
+}
+.btn.btn-success{
+  background:rgb(20, 46, 5);
+  border: none;
+    color:beige;
+}
+.btn.btn-mas{
+background-color: rgb(0, 72, 255);
+border: none;
+color:beige;
+}
+
+.btn.btn-primary{
+  background: rgb(97, 141, 211);
+background: linear-gradient(72deg, rgb(79, 96, 128) 100%, rgba(9, 16, 86, 0.659) 100%);
+}
+
+
+/* cosas que pueden cambiar por seccion*/
+
+body{
+  background-color: rgb(46, 46, 46);
+position:relative;
+padding-bottom:3em;
+min-height:100vh;
+}
+
+
+
+h1 {color: rgb(1, 14, 14);
+}
+
+h2{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+h3{color: rgb(255, 255, 255);
+
+}
+
+h4,h5,h6{
+  color: aliceblue;
+}
+
+
+
+
+
+/* Navbar*/
+i.fa-solid.fa-user.fa-2x,
+i.fa-brands.fa-twitter.fa-2x,
+i.fa-brands.fa-facebook.fa-2x,
+i.fa-brands.fa-instagram.fa-2x
+{
+color: rgb(178, 178, 214);
+}
+
+i.fa-brands.fa-twitter.fa-2x:hover,
+i.fa-brands.fa-facebook.fa-2x:hover,
+i.fa-brands.fa-instagram.fa-2x:hover,
+i.fa-solid.fa-user.fa-2x:hover
+{
+  color:rgb(13, 148, 206)
+}
+
+.list-group{
+  --bs-list-group-border-color:none;
+  --bs-list-group-bg:none;
+}
+.dropdown-divider {
+  height: 0;
+  margin: 0.5rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef;
+}
+
+/* Banner*/
+.banner{
+  top: max -30px;
+}
+.c-item {
+  height: 480px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+
+
+
+
+/* Habilidades*/
+.mat-card{
+  background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,0.6558998599439776) 1%, rgba(182,240,241,0.3393732492997199) 100%);
+  margin: 20px 10px;
+  padding: 10px;
+
+   border-radius: 32px;
+   border: 2px solid rgba(95, 244, 244, 0.419);
+   
+}
+
+
+
+
+
+
+
+
+
+/* About me*/
+img.userpicture {
+  margin: top 0.5em;
+  margin-right: 5rem;
+  border-radius: 80%;
+  vertical-align: middle ;
+  border-style: ridge;
+}
+
+
+#text-acercade{
+  color: rgb(12, 0, 0);
+  text-align: center;
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+
+.profile-image{
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+  border-style: ridge;
+  border-color: rgb(96, 95, 95);
+  
+}
+
+
+/*tarjetitas tanto de proyectos como redes */
+.col-md-3.col-lg-3{
+  margin:3em;
+
+}
+.col-lg-3{
+  margin-bottom: 1em;
+}
+
+ .col.col-md-4.col-lg-4{
+  margin: 3em;
+ }
+
+/*redes */
+ .team {
+  background: #30336b;
+}
+
+
+
+/*
+footer
+*/
+
+
+
+footer{
+  background: #30336b;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
+/*necesarios tanto para trabajo como educscion*/
+
+.logo-it{
+  width: 140px;
+  float: left;
+  height: 120px;
+  margin-right: 10px;
+  position: relative;
+  bottom: 13px;
+
+}
+#logo-sql{
+  width: 140px;
+  float: left;
+  height: 120px;
+  margin-right: 10px;
+
+}
+
+#logo-utn{
+  width: 140px;
+  float: left;
+  height: 120px;
+  margin-right: 10px;
+
+}
+
+
+/*para navbar dashboard y navbar*/
+.dropdown-divider {
+  height: 0;
+  margin: 0.5rem 0;
+  overflow: hidden;
+  border-top: 1px solid #e9ecef;
+}
+
+/*
+Dashboard
+*/
+
+
+
+
+.vertical{
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  margin-top: 1rem;
+}
+
+.vertical2{
+
+
+margin-top: 2rem;
+margin-left: 0.5rem;
+
+margin-bottom: 1rem;
+display: flex;
+
+}
+.list-group-item-action2{
+  color:rgb(252, 252, 255);
+
+}
+.list-group-item-action2:hover{
+  color: rgb(41, 41, 159);
+}
+
+.PanelAdmin2{
+  text-align: center;
+list-style:none;
+background-color: rgb(0, 0, 0);
+
+}
+.vertical.lista2{
+  background-color: rgb(0, 0, 0);
+margin-right: 1rem;
+margin-left: -1rem;
+}
+
+#nav-tabContent2{
+  padding-top: 1rem;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.col-6.contenido{
+ 
+  margin-left: -9%;
+}
+
+
+/*
+login
+*/
+
+.login {
+  width: 360px;
+  height: min-content;
+  padding: 20px;
+  border-radius: 12px;
+  background: #ffffff;
+ margin-left: 1rem;
+ margin-right: 1rem;
+}
+.login h1 {
+  font-size: 36px;
+  margin-bottom: 25px;
+}
+.login form {
+  font-size: 20px;
+}
+
+.login form .form-group {
+  margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+  font-size: 20px;
+  margin-top: 12px;
+  
+}
+.contenedor{
+  justify-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
