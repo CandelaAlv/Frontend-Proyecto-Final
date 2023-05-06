@@ -49,7 +49,7 @@ Para crear te llevara al siguiente formulario:
 
     `npm install`
 
-3. Configurar las variables de entornos en src/enviroments/enviroment.ts
+3. Configurar las variables de entornos y todas las url
 ## 📩 Contacto
 🙋‍♂️Si tienes dudas escribime a candela98alvarez@gmail.com
 
