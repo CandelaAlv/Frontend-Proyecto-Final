@@ -21,7 +21,7 @@ import { RedesComponent } from './components/redes/redes.component';
 import { IndexComponent } from './components/index/index.component';
 import { Pagina404Component } from './components/pagina404/pagina404.component';
 import { BotonloginComponent } from './components/botonlogin/botonlogin.component';
-import { DashboardComponent } from './components/dashboard/dashboard.component';
+
 import { NavbarDashboardComponent } from './components/navbar-dashboard/navbar-dashboard.component';
 import { LoginComponent } from './components/login/login.component';
 import { ButtonbackComponent } from './components/buttonback/buttonback.component';
@@ -55,7 +55,7 @@ import { EditAboutmeComponent } from './components/aboutme/edit-aboutme.componen
     IndexComponent,
     Pagina404Component,
     BotonloginComponent,
-    DashboardComponent,
+
     NavbarDashboardComponent,
     LoginComponent,
     ButtonbackComponent,
