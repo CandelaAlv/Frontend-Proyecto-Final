@@ -21,7 +21,7 @@
 <div align="center">
 
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwaoVv6KOhLw8Q3W-pwHtZI0uq1_OnBKIPkoJ2F26SJO4CIb3r38TDA9deTFQIBht2dah0djOJRKG_GadjaDM0Wucr3bYIfsjYlWK5J0fAarh-3qsygOEc6YXv7uVtYESwaFFfIcNCO8xVjM-GfKVra8vWd7ux1Rv2soskF_t-DeL68KXG0a5KHCLv/s694/pagina4~3.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJllKWhx1va4TlDI5whDTWZW1kCZyyh0BtJc-FyXc_RCzZ1K8tvIs8F3lk49lblEuoMPnaCPyGk2PsFTyAFTzPak__U58akOYLYBCh2WwXRQU580_C3tCiDM0nbArLISX9flf1AfWt4ANvNmjzwMKETI3RRFysgvNlqOLw8NCszQJ9GhNcZEvmVFY5/s1192/pagina9.png">
 
 <br> <br></div>
 
@@ -49,7 +49,14 @@ Para crear te llevara al siguiente formulario:
 
     `npm install`
 
-3. Configurar las variables de entornos y todas las url
+3. Configurar las variables de entornos y todas las url de la carpeta services.
+
+<div align="center">
+<img src= "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1FwHMHkebeZe-hTyVzl-mCBdt3DeUMCNUUbNLnUO8cXbB8TslgTyf7XPY7RVAbGT5WzY8-qoyRUOpy0PhF9S5jWPQgJzv7BEGyG8FT5Uu0g4Zd8Patu6b4vzMLQIcz1F_0q0h0s0pmweW6pRIuQowU2c15PIslCPnb1Rxlx1Bhtql1ynCd2T1w7uL/s427/pagina%206.png">
+</div>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtmWS9_ivDxMjq7ZjaQ_jJC9MbubEXWUCyUUD5FEeheAC6koKRPvbxfjIr9qz3XGAkpu9izsilUfpaijj9aSqdRD9gmtXFSZFoEzUxuaspB1p8RTSkHL_eo3tZAf_igXHfuptlDBM3vJrMDm10gNe376AfuLd2ojOk-fY-dgl9mgKAjRlVZTZyfBDa/s887/opagina%207.png">
+
+IMPORTANTE- se necesita una base de datos y un backend para poder ver toda la informacion.
 ## 📩 Contacto
 🙋‍♂️Si tienes dudas escribime a candela98alvarez@gmail.com
 
