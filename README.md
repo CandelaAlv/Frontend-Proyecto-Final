@@ -25,7 +25,7 @@
 
 <br> <br></div>
 Esto deberia verse asi:
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FRqA4FK8QwcDTofW79ZJWGcyRWBzCN9YcZtO___EN3XnU3hlm5EqTGwFABC3HwCHj5ARnyAMGXIrSgrw4ZSIOXvZH5rFWknoCL4ggwnHPKzvBj3NAH7Q1QlDievQ9K_2hV1sgoxX6Xz8KsMCa58XJnTUKMwYdYi77QhpIMKe33kMAPaADsAJT03W/s2158/Screenshot_20230506-113859~2.png">
 Para crear te llevara al siguiente formulario:
 <div align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqBmT9LZH9cZV_bhL-dzYLPpxWeLaZXwsk7E_LJ-iDt6XBExz0mVQoER623jrjl0a3dabJc15lIATSynTZyFYuDNEVs-EegyJe6jU5IBv88bjHqNwYG6dLjXH1pDINrHEPOproEFHHBgrA3UVEcI6OxHMq715wrFxtLArXlCLJcfo9lWzoNo-3p_Xz/s406/pagina5.png">
