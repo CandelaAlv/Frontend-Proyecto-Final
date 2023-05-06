@@ -14,6 +14,7 @@
 1. Podemos ingresar con un usuario apretando el logo derecho superior en la barra de navegacion y luego darle a <b>"Ingresar"</b>.
 <div align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_gHSzufEm-By7uJoEjsQUZ9XkUcXJgwGW7sflDPBTdVXqhtFXi089pTQM2hsptmWOR2Wdrp-geuxghVxnj5m4pOzaOGmxxyNr4MYauLgTc1RIfXlOUuO2ETIWkAC1_vyL9pLilIzOjauLpiKMP21kMFukUlyprDKQ1uVBa3vd33Hu-iN_P2j9NHmX/s1336/pagina.png"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLkro26db8BLZ9AF8kxkpoJOZZ8BNRK0CvdgMC-l-Ud3Dsun0cssiskNAvAuJvkR5Dc_wNlgTBwCZjWs20FM5tx4fNT_FLHvOsASJTfzD8jzsyLZWnB6swGC0mujpkYRtDdfumQAfeC_UnU49Z36AR5etpCNEJsGsxjtGxMtqHJOXorEMqJDiv1r6l/s250/pagina2.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJdoiIpnLbOYhGGpkUe7Ibr-MiC4XtVc9ojL0XNep_lZ6ASpC53Tq93U_SdQwYnKKACiE55pk30Cq-q_VDTHPjA35uqlSeyGzHu7iWz-7AOG2k4peTGIOuRe8EYUWgPPY9zmhaqiufa_Yce8ASCrYwoSTngRcqQRxLO_u6NhEYiaNLdYhAAZhVAA3/s470/pagina3.png">
 </div>
 <br>
 2. Una vez ingresado aparecera un token y el usuario ingresado. Un boton de editar el perfil en general, como informacion personal. Y botones individuales para informacion de Educacion Trabajo Habilidades y proyectos. Los cuales se pueden Borrar, editar y agregar más.
