@@ -21,7 +21,7 @@
 
 
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJdoiIpnLbOYhGGpkUe7Ibr-MiC4XtVc9ojL0XNep_lZ6ASpC53Tq93U_SdQwYnKKACiE55pk30Cq-q_VDTHPjA35uqlSeyGzHu7iWz-7AOG2k4peTGIOuRe8EYUWgPPY9zmhaqiufa_Yce8ASCrYwoSTngRcqQRxLO_u6NhEYiaNLdYhAAZhVAA3/s470/pagina3.png">
+
 <br> <br></div>
 Esto deberia verse asi:
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMVk3M71rAEd1tZkjaHj40SJwGVV3SynUks_CwuzlJ8SVkm-hPTOrasF-of78kObnHMp1_INWWdWyGYQ7rSNhxI4DemL94ZgpbkiVmBpiGhf_Kk6XYPhYkP2xX_LA63SS31GRheAHvfOod8HiqVfuVd8K-r3aTXrAXMG-kKsnAWttwTJSe159fDl4z/s815/pagina4.png">
