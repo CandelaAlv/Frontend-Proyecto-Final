@@ -21,7 +21,7 @@
 <div align="center">
 
 
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwaoVv6KOhLw8Q3W-pwHtZI0uq1_OnBKIPkoJ2F26SJO4CIb3r38TDA9deTFQIBht2dah0djOJRKG_GadjaDM0Wucr3bYIfsjYlWK5J0fAarh-3qsygOEc6YXv7uVtYESwaFFfIcNCO8xVjM-GfKVra8vWd7ux1Rv2soskF_t-DeL68KXG0a5KHCLv/s694/pagina4~3.png">
 
 <br> <br></div>
 Esto deberia verse asi:
