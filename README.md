@@ -31,6 +31,7 @@ Para crear te llevara al siguiente formulario:
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqBmT9LZH9cZV_bhL-dzYLPpxWeLaZXwsk7E_LJ-iDt6XBExz0mVQoER623jrjl0a3dabJc15lIATSynTZyFYuDNEVs-EegyJe6jU5IBv88bjHqNwYG6dLjXH1pDINrHEPOproEFHHBgrA3UVEcI6OxHMq715wrFxtLArXlCLJcfo9lWzoNo-3p_Xz/s406/pagina5.png">
 </div>
 <br>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtsc-GgH9S9TpLVIpJ_zMr2R90F6czQSxGz2xKngv_txR8gNKcPl8BR7YUiOGMWsUXFzEpC3wpJBY1bdnu2PwKQmZZX44kp7KEbOC7HDXWHDi1JhoDYoI8BFMSJDvd26veL-QjnsIDJgGdlTC01J1KggewQciaXRpuKrtOsxJpPmeOcx1oE1JyABqW/s2006/Screenshot_20230506-113911~2.png">
 3. Una vez le demos a salir los botones desapareceran y la informacion se vera actualizada.
 
 ## ⌨🖱 Instalación
