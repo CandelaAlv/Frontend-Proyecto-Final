@@ -24,7 +24,7 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwaoVv6KOhLw8Q3W-pwHtZI0uq1_OnBKIPkoJ2F26SJO4CIb3r38TDA9deTFQIBht2dah0djOJRKG_GadjaDM0Wucr3bYIfsjYlWK5J0fAarh-3qsygOEc6YXv7uVtYESwaFFfIcNCO8xVjM-GfKVra8vWd7ux1Rv2soskF_t-DeL68KXG0a5KHCLv/s694/pagina4~3.png">
 
 <br> <br></div>
-Esto deberia verse asi:
+
 <div align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0FRqA4FK8QwcDTofW79ZJWGcyRWBzCN9YcZtO___EN3XnU3hlm5EqTGwFABC3HwCHj5ARnyAMGXIrSgrw4ZSIOXvZH5rFWknoCL4ggwnHPKzvBj3NAH7Q1QlDievQ9K_2hV1sgoxX6Xz8KsMCa58XJnTUKMwYdYi77QhpIMKe33kMAPaADsAJT03W/s2158/Screenshot_20230506-113859~2.png">
 </div>
